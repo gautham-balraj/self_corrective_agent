@@ -1,0 +1,4 @@
+numpy
+langchain_google_genai
+matplotlib
+yfinance
